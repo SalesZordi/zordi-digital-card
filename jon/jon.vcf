@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lordi;Jon;;;
+FN:Jon Lordi
+ORG:Zordi Solutions
+TEL;TYPE=CELL,VOICE:+17328822862
+EMAIL;TYPE=WORK:Sales@zordisolutions.com
+URL:https://zordisolutions.com
+NOTE:Custom software, websites & AI-powered solutions.
+END:VCARD
