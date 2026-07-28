@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Iazzetta;Nick;;;
+FN:Nick Iazzetta
+ORG:Zordi Solutions
+TEL;TYPE=CELL,VOICE:+19498804792
+EMAIL;TYPE=WORK:Admin@zordisolutions.com
+URL:https://zordisolutions.com
+NOTE:Custom software, websites & AI-powered solutions.
+END:VCARD

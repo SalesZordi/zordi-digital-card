@@ -1,19 +1,25 @@
-# Zordi digital card
+# Zordi digital cards
 
-Digital business card for Jon Lordi at **https://zordisolutions.com/jon**
+Digital business cards for Zordi Solutions.
 
-## Files to upload to Cheapnames
+| Person | Path | Contact file |
+|---|---|---|
+| Jon Lordi | `/jon` | `jon.vcf` |
+| Nick Iazzetta | `/nick` | `nick.vcf` |
 
-In your hosting File Manager (usually `public_html`):
+## Files for hosting
+
+Upload into `public_html` (or site root):
 
 | Local file | Upload to |
 |---|---|
 | `jon/index.html` | `public_html/jon/index.html` |
 | `jon/logo.png` | `public_html/jon/logo.png` |
 | `jon.vcf` | `public_html/jon.vcf` |
+| `nick/index.html` | `public_html/nick/index.html` |
+| `nick/logo.png` | `public_html/nick/logo.png` |
+| `nick.vcf` | `public_html/nick.vcf` |
 
-That makes:
-- Card: `https://zordisolutions.com/jon`
-- Contact: `https://zordisolutions.com/jon.vcf`
-
-GitHub stores the code; Cheapnames is what serves the live site (upload via cPanel / File Manager / FTP).
+Live URLs once uploaded:
+- https://zordisolutions.com/jon
+- https://zordisolutions.com/nick
